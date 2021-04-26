@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: rgb(32, 30, 30)
+    
+  }
+  
+.container{
+    text-align: center;
+    margin-top: 360px;
+}
+
+h2{
+    background: rgba(73, 47, 47, 0);
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 100px;
+    font-style: normal;
+    opacity: 0.19;
+    transition: opacity 600ms cubic-bezier(0.34, 1.56, 0.64, 1) 1ms;
+
+}
+
+h2:hover{
+opacity: 1;
+}
+
+.back{
+    width: px;
+    height: 35px;
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    border: black;
+    background-color: #141111;
+   transition: background-color 1s ease 0s;
+   opacity: 0.40;
+   transition: opacity 600ms cubic-bezier(0.34, 1.56, 0.64, 1) 1ms;
+   
+  }
+  
+.back:hover{
+    background-color: #000000;
+    opacity: 1;
+  }
