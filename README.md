@@ -1,2 +1,2 @@
 # FD-website
-You dont have Rights to use my Website
+Feel Free to use it<3
